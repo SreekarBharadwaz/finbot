@@ -1,0 +1,12 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+.streamlit/secrets.toml
+.env
+
+# Original SEC exports and exploratory/intermediate analysis artifacts
+/2025q4/
+/unstructured_final_results/
